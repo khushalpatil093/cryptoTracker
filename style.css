@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border-bottom: 1px solid white;
+}
+
+#searchbox {
+    border: 1px solid grey;
+    background-color: black;
+    width: 30%;
+    padding: 10px;
+    margin: 15px 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+button {
+    border: 1px solid grey;
+    background-color: black;
+    padding: 10px;
+    margin: 15px 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+.positiveChange {
+    color: green;
+}
+
+.negativeChange {
+    color: red;
+}
+
+td {
+    min-width: 70px;
+    padding: 10px;
+}
+
+#cryptoTable {
+    margin-inline: auto;
+}
